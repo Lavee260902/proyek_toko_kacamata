@@ -1,0 +1,142 @@
+/* Header CSS */
+.navbar{
+    background-color: #ffffff;
+    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.75);
+}
+
+.img-navbar{
+    height: 80px;
+}
+
+.ul-navbar{
+    list-style-type: none;  
+    display: flex;
+}
+
+.nav-link{
+    color: #0c0c0c;
+}
+
+.form-inline .form-control{
+    box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+}
+
+.form-inline .btn{
+    box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    color: black;
+}
+ 
+
+/* Content 1 CSS */
+.container-content1{
+    margin-top: 150px;
+}
+
+.h3-content1{
+    font-family: 'Roboto', sans-serif;
+}
+
+.p-content1{
+    color: #808080;
+}
+
+.img-content1{
+    padding-top: 3%;
+    box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+}
+ 
+/* Content 2 CSS */
+.p-content2{
+    padding-top: 3%;
+    color: black;
+}
+
+.h5-content2{
+    font-family: 'Roboto', sans-serif;
+}
+
+.h6-content2{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer CSS */
+.container-footer{
+    background-color: #0C0C0C;
+    padding: 3%;
+    margin-top: 10%;
+}
+
+.img-footer{
+    width: 100px;
+}
+
+.container-ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.footer-about{
+    margin-left: 35px;
+    color: white;
+}
+
+.footer-location{
+    margin-left: 35px;
+    color: white;
+}
+
+.footer-contact{
+    list-style-type: none;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.i-whatsapp{
+    color: white;
+}
+
+.i-instagram{
+    color: white;
+    padding-left: 50%;
+}
+
+.i-email{
+    color: white;
+    padding-left: 100%;
+}
+
+.p-footer2{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 1%;
+    color: 	#808080;
+}

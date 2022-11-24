@@ -1,0 +1,243 @@
+/* Header CSS */
+.navbar{
+    background-color: #ffffff;
+    box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.75);
+}
+
+.img-navbar{
+    height: 80px;
+}
+
+.ul-navbar{
+    list-style-type: none;  
+    display: flex;
+}
+
+.nav-link{
+    color: #0c0c0c;
+}
+
+.form-inline .form-control{
+    box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+}
+
+.form-inline .btn{
+    box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 0px 1px rgba(0,0,0,1);
+    color: black;
+}
+
+/* Content 1 CSS */
+.container-content1{
+    margin-top: 90px;
+}
+
+
+
+/* Content 2 CSS */
+
+.content2 .carousel-inner{
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,1);
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 5px 5px 0px rgba(0,0,0,1);
+}
+
+/* Content 3 CSS */
+
+.container-content3 h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+}
+
+.slide-content3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content3{
+    box-shadow: 10px 10px 3px -3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 3px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 3px -3px rgba(0,0,0,0.75);
+    margin-top: 5%;
+}
+
+.card-title{
+    text-align: center;
+    padding-top: 2%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-text{
+    text-align: center;
+    color: #808080;
+}
+
+.a-content3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+
+
+/* Content 4 CSS */
+
+.content4 .carousel-inner{
+    box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.75);
+    margin-top: 3%;
+}
+
+/* Content 5 CSS */
+
+.container-content5 h4{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+}
+
+.img-content5{
+    height: 250px;
+    box-shadow: 10px 10px 3px -3px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 3px -3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 3px -3px rgba(0,0,0,0.75);
+    margin-top: 5%;
+}
+
+.h4-content5{
+    color: black;
+    padding-top: 10px;
+}
+
+.p-content5{
+    color: #808080;
+}
+
+
+/* Content 6 CSS */
+.container-content6{
+    margin-top: 5%;
+}
+
+.h5-content6{
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-content6{
+    border-radius: 40px 10px;
+    box-shadow: 3px 3px 3px 1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 3px 3px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 3px 3px 1px rgba(0,0,0,0.75);
+    height: 150px;
+}
+
+.img2-content6{
+    border-radius: 40px 10px;
+    box-shadow: -3px 3px 3px 1px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -3px 3px 3px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 3px 3px 1px rgba(0,0,0,0.75);
+    height: 150px;
+}
+
+.p-content6{
+    padding-top: 4%;
+}
+
+.date-content6{
+    list-style-type: none;
+    display: flex;
+}
+
+.date-content6 .date{
+    padding: 1px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    color: #808080;
+    font-size: 12px;
+}
+
+/* Footer CSS */
+.container-footer{
+    background-color: #0C0C0C;
+    padding: 3%;
+    margin-top: 10%;
+}
+
+.img-footer{
+    width: 100px;
+}
+
+.container-ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.footer-about{
+    margin-left: 35px;
+    color: white;
+}
+
+.footer-location{
+    margin-left: 35px;
+    color: white;
+}
+
+.footer-contact{
+    list-style-type: none;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.i-whatsapp{
+    color: white;
+}
+
+.i-instagram{
+    color: white;
+    padding-left: 50%;
+}
+
+.i-email{
+    color: white;
+    padding-left: 100%;
+}
+
+.p-footer2{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 1%;
+    color: 	#808080;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
